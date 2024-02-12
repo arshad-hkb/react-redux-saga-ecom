@@ -1,11 +1,15 @@
 import React from "react";
+import cart from "../assets/images/cart.png";
 
+import { useSelector } from "react-redux";
 const Header = () => {
+  const result = useSelector((state) => state.cartData);
+  console.log("result", result);
   return (
     <div className="header">
       <div className="cart_div">
-        <span>0</span>
-        <img src="https://images.app.goo.gl/Wt1jcp3ZLpFJ8guh6" alt />
+        <span>{result.length}</span>
+        <img src={cart} alt="" />
       </div>
     </div>
   );
