@@ -1,0 +1,40 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Sumsung m40",
+      "color": "black",
+      "price": 15000,
+      "category": "Mobile",
+      "brand": "Sumsung",
+      "photos": "https://rukminim2.flixcart.com/image/850/1000/xif0q/cases-covers/flip-cover/n/o/z/sbmsflip-samsung-m40-gold-sbms-original-imagnd99knxazshf.jpeg?q=90&crop=false"
+    },
+    {
+      "id": 2,
+      "name": "Sumsung F20",
+      "color": "white",
+      "price": 50000,
+      "category": "Mobile",
+      "brand": "Sumsung",
+      "photos": "https://www.google.com/search?q=samsung+f20&tbm=isch&ved=2ahUKEwjL053pgqiEAxUvTmwGHYi9BSwQ2-cCegQIABAA&oq=samsung+f20&gs_lp=EgNpbWciC3NhbXN1bmcgZjIwMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjqG1DIBVicFXAAeACQAQCYAYkBoAH7BKoBAzAuNbgBA8gBAPgBAYoCC2d3cy13aXotaW1nwgIEECMYJ8ICCBAAGIAEGLEDwgIOEAAYgAQYigUYsQMYgwGIBgE&sclient=img&ei=6TjLZYu7GK-cseMPiPuW4AI&bih=730&biw=1536&rlz=1C1RXQR_enIN1061IN1061#imgrc=Vo2-r99ohDmycM"
+    },
+    {
+      "id": 3,
+      "name": "T-shirt",
+      "color": "red",
+      "price": 1000,
+      "category": "cloths",
+      "brand": "Nike",
+      "photos": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1688975689_6532970.jpg?w=480&dpr=1.3"
+    },
+    {
+      "id": 4,
+      "name": "sports shoes",
+      "color": "red & black",
+      "price": 8000,
+      "category": "shoes",
+      "brand": "US polo",
+      "photos": "https://ludic.life/cdn/shop/files/eclipse-greenpdp2.jpg?v=1697713072&width=823"
+    }
+  ]
+}
